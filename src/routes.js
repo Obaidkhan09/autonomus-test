@@ -1,7 +1,6 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Login from "./Components/Login";
-// import withAuth from './Components/Index';
 import SignUp from './Components/SignUp';
 import Dashboard from './Components/Dashboard/Dshboard';
 import { withAuth } from "./ReUseable/PrivateHoc"
